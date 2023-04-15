@@ -1,0 +1,13 @@
+{
+    "name": "longha/graphql-php",
+    "description": "simple php with graphql",
+    "authors": [
+        {
+            "name": "Long Ha",
+            "email": "longhv2206@gmail.com"
+        }
+    ],
+    "require": {
+        "webonyx/graphql-php": "^15.2"
+    }
+}
